@@ -1,0 +1,9 @@
+com.DefaultCompany.FireBall.launcher-pngs-0 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.FireBall.launcher-resValues-1 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.FireBall.launcher-rs-2 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.FireBall.launcher-mergeReleaseResources-3 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.FireBall.launcher-mergeReleaseResources-4 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.FireBall.launcher-merged_res-5 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.FireBall.launcher-main-6 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.FireBall.launcher-release-7 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.FireBall.launcher-packaged_res-8 D:\Unity\Projects\FireBall\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
